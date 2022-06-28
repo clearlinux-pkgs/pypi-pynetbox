@@ -4,7 +4,7 @@
 #
 Name     : pypi-pynetbox
 Version  : 6.6.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/ea/c6/269711c733eaf100e70877cc1a6bc9a19747d070f5c257479afb9d4e3ffb/pynetbox-6.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ea/c6/269711c733eaf100e70877cc1a6bc9a19747d070f5c257479afb9d4e3ffb/pynetbox-6.6.2.tar.gz
 Summary  : NetBox API client library
@@ -63,7 +63,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656383435
+export SOURCE_DATE_EPOCH=1656398876
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
