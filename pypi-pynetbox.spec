@@ -4,7 +4,7 @@
 #
 Name     : pypi-pynetbox
 Version  : 6.6.2
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/ea/c6/269711c733eaf100e70877cc1a6bc9a19747d070f5c257479afb9d4e3ffb/pynetbox-6.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ea/c6/269711c733eaf100e70877cc1a6bc9a19747d070f5c257479afb9d4e3ffb/pynetbox-6.6.2.tar.gz
 Summary  : NetBox API client library
