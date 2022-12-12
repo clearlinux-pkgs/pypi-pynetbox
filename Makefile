@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pynetbox
-URL = https://files.pythonhosted.org/packages/ea/c6/269711c733eaf100e70877cc1a6bc9a19747d070f5c257479afb9d4e3ffb/pynetbox-6.6.2.tar.gz
+URL = https://files.pythonhosted.org/packages/b6/01/27bf162ae93c7c0d8331fb7f7f91ff39a786904b37e07cb9a6ff9f96e526/pynetbox-7.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
