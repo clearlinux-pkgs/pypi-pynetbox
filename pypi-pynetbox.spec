@@ -4,10 +4,10 @@
 # Using build pattern: distutils3
 #
 Name     : pypi-pynetbox
-Version  : 7.1.0
-Release  : 12
-URL      : https://files.pythonhosted.org/packages/10/7f/fe1f1cea637439d385e001eeb8ff4472bfdc5ce7323b5a3157a1b9ad0160/pynetbox-7.1.0.tar.gz
-Source0  : https://files.pythonhosted.org/packages/10/7f/fe1f1cea637439d385e001eeb8ff4472bfdc5ce7323b5a3157a1b9ad0160/pynetbox-7.1.0.tar.gz
+Version  : 7.2.0
+Release  : 13
+URL      : https://files.pythonhosted.org/packages/2b/fc/53cf993ee689518a892eb641348ac2f8a0ad14c0f1a907ee63df7e7da34c/pynetbox-7.2.0.tar.gz
+Source0  : https://files.pythonhosted.org/packages/2b/fc/53cf993ee689518a892eb641348ac2f8a0ad14c0f1a907ee63df7e7da34c/pynetbox-7.2.0.tar.gz
 Summary  : NetBox API client library
 Group    : Development/Tools
 License  : Apache-2.0
@@ -56,10 +56,10 @@ python3 components for the pypi-pynetbox package.
 
 
 %prep
-%setup -q -n pynetbox-7.1.0
-cd %{_builddir}/pynetbox-7.1.0
+%setup -q -n pynetbox-7.2.0
+cd %{_builddir}/pynetbox-7.2.0
 pushd ..
-cp -a pynetbox-7.1.0 buildavx2
+cp -a pynetbox-7.2.0 buildavx2
 popd
 
 %build
@@ -67,7 +67,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1693253355
+export SOURCE_DATE_EPOCH=1694188685
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
