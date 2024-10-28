@@ -7,7 +7,7 @@
 #
 Name     : pypi-pynetbox
 Version  : 7.4.1
-Release  : 20
+Release  : 21
 URL      : https://files.pythonhosted.org/packages/1a/f9/e6c524e5ddc4c2788ab2f5ee1ab2d9afad49cad9c7cd3a372cf5b8433ed3/pynetbox-7.4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1a/f9/e6c524e5ddc4c2788ab2f5ee1ab2d9afad49cad9c7cd3a372cf5b8433ed3/pynetbox-7.4.1.tar.gz
 Summary  : NetBox API client library
